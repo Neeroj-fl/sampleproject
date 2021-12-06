@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(picture/white.jpg);
+    background-size: 1000px;
+    background-position-x: center;
+    background-position-y:center ;
+    
+}
+form{
+    text-transform:lowercase;
+    margin-top: 60px;
+    }
+label{
+    padding: 10px;
+    
+}
+input{
+    border-radius: 20px;
+    border-radius: 5px;
+    border-color: black;
+    border-bottom-left-radius: 2px;
+    border-bottom-width: 2px;
+}
